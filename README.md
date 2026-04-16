@@ -55,6 +55,33 @@
 
 ---
 
+## 💼 Professional Experience
+
+```
+💻 Backend Developer - Freelance
+📅 2024 - Present
+📍 Remote
+```
+
+* Developed backend systems using ASP.NET Core
+* Designed RESTful APIs for different applications
+* Worked on database design and optimization
+* Focused on clean architecture and scalable solutions
+
+---
+
+## 🚀 Featured Project
+
+### 🛒 E-Commerce Web App
+
+🔗 https://basic-ecomm-saher9900s-projects.vercel.app/
+
+* Built a responsive e-commerce frontend
+* Implemented product listing and UI design
+* Applied HTML, CSS, and modern UI practices
+
+---
+
 ## 🧠 What I Do
 
 * 🔹 Backend Development (ASP.NET Core)
