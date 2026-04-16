@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kareem</h1>
 <h3 align="center">Backend Developer | .NET Developer | Flutter Developer</h3>
+---
 ## 🌐 Portfolio
 
-👉 **Live Portfolio:**  
-http://kareemswilm9.runasp.net/
+🚀 Check out my personal portfolio website:
 
-✨ Explore my projects, skills, and real-world applications.
+🔗 http://kareemswilm9.runasp.net/
+
+```diff
++ Showcases my projects and technical skills
++ Includes real-world applications and UI work
++ Built to represent my work as a Backend & Flutter Developer
 
 ---
 
