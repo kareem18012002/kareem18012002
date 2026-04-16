@@ -1,62 +1,77 @@
-<div align="center">
-  <h1>Hi 👋, I'm Kareem Ezat</h1>
-  <h3>Building Scalable Backends & Seamless Mobile Experiences</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/kareem-ezat-ghareb-ali-swilm-26b21b227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="http://kareemswilm9.runasp.net/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /></a>
-  </p>
-</div>
+<h1 align="center">Hi 👋, I'm Kareem Ezat</h1>
+<h3 align="center">Software Engineer | .NET Backend | Flutter Developer</h3>
 
----
-
-### 👨‍💻 About Me
-- 🎓 **IT Graduate** from Zagazig University.
-- 🚀 **Backend Specialist** focused on .NET Ecosystem & Clean Architecture.
-- 📱 **Mobile Developer** with a passion for Flutter & cross-platform solutions.
-- ⚡ **Goal:** Building high-performance APIs and user-centric applications.
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `C#`, `Dart`, `SQL`, `HTML5`, `CSS3`, `JavaScript` |
-| **Frameworks** | `.NET Core`, `ASP.NET Web API`, `Flutter`, `Entity Framework` |
-| **Databases** | `SQL Server`, `PostgreSQL`, `Firebase` |
-| **DevOps & Tools** | `Git`, `GitHub`, `Postman`, `Docker`, `Visual Studio`, `VS Code` |
-
----
-
-### 🚀 Featured Projects
-
-#### 🛒 [E-Commerce Web App](https://basic-ecomm-saher9900s-projects.vercel.app/)
-* **Tech:** ASP.NET Core, RESTful APIs, SQL Server.
-* **Key Features:** Responsive UI, Product Management, Secure Checkout.
-
-#### 🧠 Epilepsy Detection App
-* **Tech:** Flutter, Dart, Firebase.
-* **Role:** Contributed to mobile features and state management to improve user monitoring.
-
-#### ⚙️ Scalable Backend Systems
-* **Focus:** Clean Architecture, Repository Pattern, and JWT Authentication.
-* **Objective:** Building secure and maintainable API infrastructures.
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kareem18012002&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem18012002&layout=compact&langs_count=7&theme=visual_studio_code" />
+  <a href="#about-me">About</a> •
+  <a href="#tech-stack">Skills</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#connect-with-me">Connect</a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kareem-ezat-ghareb-ali-swilm-26b21b227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
+  <a href="http://kareemswilm9.runasp.net/"><img src="https://img.shields.io/badge/My%20Portfolio-230C0F0?style=for-the-badge&logo=web&logoColor=white" height="35" /></a>
 </p>
 
 ---
 
-### 📫 Connect with me
-- **Portfolio:** [kareemswilm9.runasp.net](http://kareemswilm9.runasp.net/)
-- **LinkedIn:** [Kareem Ezat](https://www.linkedin.com/in/kareem-ezat-ghareb-ali-swilm-26b21b227/)
-- **Email:** `kareem.swilm.dev@gmail.com` *(أضف إيميلك هنا لو حابب)*
+<p align="center">
+  <imgsrc="https://github-readme-stats.vercel.app/api?username=kareem18012002&show_icons=true&theme=vscodet&include_all_commits=true&count_private=true" alt="Kareem's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem18012002&layout=compact&theme=vscode&langs_count=6" alt="Top Languages" height="160" />
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kareem18012002&label=Profile%20views&color=0e75b6&style=flat-square" />
-</div>
+---
+
+## 👨‍💻 About Me
+I am a results-driven Software Engineer focusing on building robust **Backend Systems** with the .NET Ecosystem and crafting seamless **Mobile Applications** using Flutter. Graduated with an IT degree from Zagazig University, passionate about clean code, scalable APIs, and performance optimization.
+
+* 💡 Specialized in **ASP.NET Core** (Web API) & **Clean Architecture**.
+* 📱 Experienced in **Flutter** cross-platform development.
+* 🛡️ Focused on security, performance, and best engineering practices.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dart,sql,html,css" alt="Languages" />
+</p>
+
+### 🚀 Frameworks & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,aspnet,ef,flutter,visualstudio,vscode,postman,firebase" alt="Frameworks" />
+</p>
+
+### 🧰 Database & Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgresql,git,github" alt="Tools" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+> ### 🛒 [E-Commerce Web Application](https://basic-ecomm-saher9900s-projects.vercel.app/)
+> Developed a full-stack e-commerce solution with a modern frontend and a powerful ASP.NET Core backend.
+> * **Backend:** ASP.NET Core, RESTful APIs, JWT Authentication.
+> * **Database:** SQL Server, Entity Framework.
+> * [Live Demo](https://basic-ecomm-saher9900s-projects.vercel.app/) | [Repository]()
+
+> ### 🧠 Epilepsy Detection App
+> Contributed to a mobile application designed for patients, built with Flutter for both iOS and Android. Focus on real-time monitoring and user experience.
+
+> ### 📱 Advanced Flutter UI Portfolio
+> Collection of complex UI implementation using Flutter, demonstrating state management and clean UI design principles.
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="mailto:kareem.ezat.swilm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
+  <a href="https://www.linkedin.com/in/kareem-ezat-ghareb-ali-swilm-26b21b227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kareem18012002&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
