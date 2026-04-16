@@ -70,17 +70,50 @@
 
 ---
 
-## 🚀 Featured Project
+---
+
+## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Web App
 
 🔗 https://basic-ecomm-saher9900s-projects.vercel.app/
 
-* Built a responsive e-commerce frontend
-* Implemented product listing and UI design
-* Applied HTML, CSS, and modern UI practices
+```diff
++ Responsive E-Commerce UI built with modern web technologies
++ Clean and organized product listing interface
++ Focused on user experience and UI design
+```
 
 ---
+
+### 🧠 Epilepsy Detection App (Contribution)
+
+```diff
++ Contributed to a Flutter-based mobile application
++ Worked on features and improvements
++ Collaborated within a team environment
+```
+
+---
+
+### 📱 Flutter Projects
+
+```diff
++ Built multiple mobile applications using Flutter
++ Applied state management and UI design principles
++ Experience with cross-platform development
+```
+
+---
+
+### ⚙️ Backend Systems (.NET)
+
+```diff
++ Developed RESTful APIs using ASP.NET Core
++ Designed scalable backend architectures
++ Worked with SQL Server and database optimization
+```
+
 
 ## 🧠 What I Do
 
