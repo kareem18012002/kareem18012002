@@ -139,9 +139,9 @@ I am a dedicated **Software Engineer** with a strong focus on the **.NET Ecosyst
   <h3>🎉 Thanks for visiting!</h3>
   <p>Click the badge below to explore my portfolio and work 👇</p>
   
-  <a href="http://kareemswilm9.runasp.net/](https://kareem18012002.github.io/portfolio-KareemSwilm/">
-    <img src="https://komarev.com/ghpvc/?username=kareem18012002&label=VISIT%20MY%20PORTFOLIO&color=0e75b6&style=for-the-badge" alt="Visit Portfolio" />
-  </a>
+<a href="https://kareem18012002.github.io/portfolio-KareemSwilm/">
+  <img src="https://komarev.com/ghpvc/?username=kareem18012002&label=VISIT%20MY%20PORTFOLIO&color=0e75b6&style=for-the-badge" alt="Visit Portfolio" />
+</a>
 
   <br/><br/>
   
