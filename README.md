@@ -1,149 +1,111 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=280&section=header&text=Kareem%20Ezat&fontSize=80&animation=fadeIn&fontAlignY=38" />
+<h1 align="center">Kareem Ezzat</h1>
+<h3 align="center">Backend .NET Developer</h3>
 
-  <h1>🎯 Software Engineer | .NET & Flutter Specialist</h1>
-  <p align="center">
-    <b>Transforming complex ideas into scalable backend systems and stunning mobile experiences.</b>
-  </p>
+<p align="center">
+  Building RESTful APIs with ASP.NET Core, Entity Framework Core, and SQL Server.
+</p>
 
-  <p align="center">
-    <a href="#about-me">About Me</a> •
-    <a href="#skills">Skills</a> •
-    <a href="#github-stats">Statistics</a> •
-    <a href="#projects">Projects</a> •
-    <a href="#education">Education</a> •
-    <a href="#contact">Contact</a>
-  </p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/kareem-ezat-ghareb-ali-swilm-26b21b227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:kareem.swilm.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="http://kareemswilm9.runasp.net/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/kareem-swilm-26b21b227"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kareemswilm9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://kareem18012002.github.io/portfolio-KareemSwilm/"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 
-<a name="about-me"></a>
-## 👨‍💼 Professional Persona
-I am a dedicated **Software Engineer** with a strong focus on the **.NET Ecosystem** and **Cross-Platform Mobile Development**. My goal is to build software that is not only functional but also highly maintainable and efficient. I thrive in implementing **Clean Architecture** and **SOLID Design Patterns**.
+## About
 
-* 🔭 **Current Focus:** Advancing my expertise in **Microservices** and **Cloud Solutions (Azure)**.
-* 🌱 **Learning:** Exploring **DevOps** practices, **Docker** orchestration, and CI/CD.
-* 💬 **Expertise:** Backend scalability, RESTful API design, and Mobile UI/UX.
-* ⚡ **Motto:** "Code is like humor. When you have to explain it, it’s bad."
+Backend .NET developer with freelance experience since 2023, focused on designing, building, and deploying production-ready REST APIs. I work with Clean Architecture, SOLID principles, the Repository and Unit of Work patterns, and JWT authentication with role-based access control. I also build cross-platform mobile apps with Flutter, and I have taught programming to beginners as an instructor at eYouth.
+
+**Currently learning:** Microservices, Docker, CI/CD, and Azure.
 
 ---
 
-<a name="skills"></a>
-## 🛠️ Technical Toolbox
+## Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Backend & Systems</h4>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,ef,sqlserver,postgres" />
-      <br/><em>C#, ASP.NET Core, EF Core, SQL Server</em>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 Mobile & Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js" />
-      <br/><em>Flutter, Dart, State Management, UI/UX</em>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛠️ Tools & DevOps</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,docker,visualstudio,vscode" />
-      <br/><em>Version Control, Docker, API Testing</em>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚀 Architecture & Cloud</h4>
-      <img src="https://skillicons.dev/icons?i=firebase,vercel,azure" />
-      <br/><em>Clean Architecture, Firebase, Azure</em>
-    </td>
-  </tr>
-</table>
-
----
-
-<a name="github-stats"></a>
-## 📊 GitHub Analytics & Impact
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kareem18012002&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem18012002&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-      </td>
-    </tr>
-  </table>
-
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem18012002&theme=tokyonight&hide_border=true" />
-
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=kareem18012002&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="Kareem's Trophies" />
-</div>
-
----
-
-<a name="projects"></a>
-## 🚀 Featured Architectural Projects
-
-### 🛍️ [E-Commerce Enterprise System](https://basic-ecomm-saher9900s-projects.vercel.app/)
-> **Full-Stack Development (.NET Core & Modern Web)**
-> - Designed a scalable backend with **Repository Pattern** and **Unit of Work**.
-> - Integrated secure **JWT Authentication** and authorization.
-> - **Tech:** .NET Core, SQL Server, Entity Framework.
-
-### 🧠 [Medical Monitoring (Epilepsy Detection)](https://github.com/kareem18012002)
-> **Mobile Engineering (Flutter & Firebase)**
-> - Developed a real-time monitoring system with complex state management.
-> - Focused on **Accessible UI/UX** for healthcare users.
-> - **Tech:** Flutter, Dart, Firebase Realtime DB.
-
----
-
-<a name="education"></a>
-## 🎓 Education & Certifications
-- 🏛️ **Bachelor of Information Technology** | Zagazig University (2020 - 2024)
-- 📜 **ASP.NET Core Backend Specialization** | Professional Certificate
-- 📱 **Mobile App Development with Flutter** | Specialized Training
-
----
-
-<a name="contact"></a>
-## 🌍 Languages & Contact
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <b>🗣️ Languages</b><br/>
-      • 🇪🇬 Arabic: Native<br/>
-      • 🇺🇸 English: Professional Technical
-    </td>
-    <td width="50%" align="center">
-      <b>🔗 Quick Links</b><br/>
-      <a href="https://www.linkedin.com/in/kareem-ezat-ghareb-ali-swilm-26b21b227/">LinkedIn</a> | 
-      <a href="mailto:kareem.swilm.dev@gmail.com">Email</a>
-    </td>
-  </tr>
-</table>
-
+**Backend**
 <br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger"/>
 
-<div align="center">
-  <h3>🎉 Thanks for visiting!</h3>
-  <p>Click the badge below to explore my portfolio and work 👇</p>
-  
-<a href="https://kareem18012002.github.io/portfolio-KareemSwilm/">
-  <img src="https://komarev.com/ghpvc/?username=kareem18012002&label=VISIT%20MY%20PORTFOLIO&color=0e75b6&style=for-the-badge" alt="Visit Portfolio" />
-</a>
+**Database**
+<br/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
-  <br/><br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Console.WriteLine(%22Keep+Coding!%22);;System.Diagnostics.Process.Start(%22Portfolio%22);" />
-</div>
+**Mobile**
+<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
+
+**Tools and Deployment**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/IIS%20%2F%20Web%20Deploy-0078D4?style=flat" alt="IIS and Web Deploy"/>
+
+**Architecture and Concepts**
+<br/>
+Clean Architecture · SOLID · Repository Pattern · Unit of Work · Dependency Injection · JWT and RBAC · Caching · Async/Await
+
+---
+
+## Featured Projects
+
+### [ElectroMart: E-Commerce REST API](https://github.com/kareem18012002/ElectroMart)
+
+A scalable e-commerce REST API for managing products, categories, and featured items.
+
+- Reduced API response time by 40% and improved throughput by 35% with in-memory and response caching.
+- 20+ CRUD endpoints across 5+ entity relationships, backed by a SQL Server database with 10+ tables (EF Core Code-First migrations).
+- Secure image upload and validation system with static file serving and cache headers.
+- Deployed to IIS with Web Deploy using a zero-downtime configuration.
+
+**Tech:** ASP.NET Core, C#, Entity Framework Core, SQL Server, IIS
+
+### Course Management API
+
+A RESTful API for course management built with Clean Architecture.
+
+- JWT authentication and role-based authorization supporting 3+ user roles.
+- Repository Pattern and Unit of Work, DTOs, AutoMapper, and global exception handling across 15+ endpoints.
+- Fully documented with Swagger/OpenAPI.
+
+**Tech:** ASP.NET Core, C#, Entity Framework Core, SQL Server, AutoMapper
+
+### Epilepsy Seizure Management Assistant (Graduation Project)
+
+A Flutter mobile application for patients, doctors, and caregivers, integrated with backend APIs.
+
+- Real-time chat and push notifications with Firebase.
+- MVVM architecture with Cubit state management across 10+ screens.
+- Integrated ML model for seizure detection. Graduated with High Distinction.
+
+**Tech:** Flutter, Dart, Firebase, MVVM, Cubit
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kareem18012002&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0E75B6&text_color=8B949E&icon_color=0E75B6" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem18012002&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=0E75B6&text_color=8B949E" alt="Top languages"/>
+</p>
+
+---
+
+## Education
+
+- **B.Sc. in Information Technology**, Zagazig University (2020 – 2024)
+- **ITI .NET Track** (Professional Training), Information Technology Institute (2025)
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/kareem-swilm-26b21b227](https://linkedin.com/in/kareem-swilm-26b21b227)
+- Email: [kareemswilm9@gmail.com](mailto:kareemswilm9@gmail.com)
+- Portfolio: [kareem18012002.github.io/portfolio-KareemSwilm](https://kareem18012002.github.io/portfolio-KareemSwilm/)
